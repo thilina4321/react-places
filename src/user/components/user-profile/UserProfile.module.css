@@ -1,0 +1,39 @@
+.profile{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 30px auto;
+
+}
+
+.image{
+    height: 200px;
+    width: 100%;
+}
+
+.user__data{}
+
+.user__places{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 10px auto;
+}
+
+.pro_img{
+    height: 100px;
+    width: 100%;
+}
+
+.p{
+    margin: 0;
+}
+
+.place{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}

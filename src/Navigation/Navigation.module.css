@@ -1,0 +1,38 @@
+.toolbar{
+    display: flex;
+    align-items: center;
+    background-color: rgb(231, 54, 54);
+    color: #ffffff;
+    
+}
+
+.logo{
+    flex: 1;
+    margin-left: 10px;
+}
+
+.link{
+    text-decoration: none;
+    margin-right: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+@media only screen and (max-width:500px){
+    .desktop{
+        display: none;
+    }
+
+}
+
+@media only screen and (min-width:500px){
+    
+    .mobile{
+        display: none;
+        }
+
+}
+
+
